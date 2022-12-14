@@ -1,0 +1,3 @@
+(executable
+ (name main)
+ (libraries core str core_kernel.pairing_heap))
